@@ -12,6 +12,6 @@ This project is designed so that the people who want to get vaccinated can easil
 •	 After clicking on register there will be a pop asking for your confirmation and click on ok.
 •	The page will get refreshed and the data you have submitted will be saved in the 
 database.
-
+https://github.com/mohitmanohar/Musify-Web-Dev/issues/1#issue-1808135274
 
 
